@@ -1,4 +1,4 @@
-## Hi there 👋## Hi there 
+## Hi there 
 ## I'm Anamika B
 
 -  **University:** VIT Bhopal University
