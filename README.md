@@ -3,7 +3,7 @@
 
 -  **University:** VIT Bhopal University
 -  **Branch:** Electronics and Communication Engineering (ECE)
--  **Year:** First Year (2025–2029)
+-  **Year:** Second Year (2025–2029)
 
 ---
 
